@@ -1,0 +1,16 @@
+Logo
+
+color : #4c6aa9
+Tamaño de fuente: 60 pt
+Tipo de fuente: Comfortaa Bold
+Color de simbolo: #081399
+Efecto del color del simbolo: Superposición de degradado
+
+Icono
+
+Color letra c: #4c6aa9
+Tamaño de fuente: 100 pt
+Tipo de fuente: Comfortaa Bold
+Color de simbolo: #081399
+Efecto del color del simbolo: Superposición de degradado																																																																																							
+
